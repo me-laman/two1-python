@@ -17,7 +17,7 @@ install_requires = [
     'flake8',
     'jsonrpcclient==2.0.1',
     'jsonrpcserver==3.1.1',
-    'mnemonic==0.13',
+    'mnemonic',
     'path.py',
     'pexpect',
     'protobuf',
