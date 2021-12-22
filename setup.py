@@ -20,11 +20,11 @@ install_requires = [
     'mnemonic==0.13',
     'path.py',
     'pexpect',
-    'protobuf==3.0.0a3',
+    'protobuf',
     'pyaes',
     'pytest',
     'pyyaml',
-    'requests<=2.11.1',
+    'requests',
     'sha256',
     'tabulate',
 ]
